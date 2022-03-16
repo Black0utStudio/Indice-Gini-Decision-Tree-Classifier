@@ -1,3 +1,3 @@
-# Indice-Gini-Decision-Tree-Classifier
+# Indice Gini. Decision Tree Classifier
 ## *Titanic*
 Data Science with Python
